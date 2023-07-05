@@ -1,0 +1,23 @@
+{
+  "name": "BC_Groupe07",
+  "version": "1.0.0",
+  "description": "Hochschulwahl",
+  "main": "index.js",
+  "dependencies": {
+    "ganache-time-traveler": "^1.0.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HM2023-BC/BC_Groupe07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HM2023-BC/BC_Groupe07/issues"
+  },
+  "homepage": "https://github.com/HM2023-BC/BC_Groupe07#readme"
+}
